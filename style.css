@@ -1,5 +1,6 @@
 #imagesection{
     display: flex;
+        text-align: center;
 }
 #img{
      margin-right: 25px;
@@ -7,4 +8,9 @@
 }
 body{
 background-color: burlywood;
+}
+img{
+    height:240;
+    width: 230;
+        text-align: center;
 }
